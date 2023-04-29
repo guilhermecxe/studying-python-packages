@@ -1,0 +1,3 @@
+## Comentários
+
+- É interessante usar tags nos comentários. Exemplos: TODO, BUG, FIXME...
